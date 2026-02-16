@@ -1,5 +1,7 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Research Assistant at the University of Kaiserslautern-Landau (RPTU) in the Embedded Intelligence group. I completed both my Bachelor's and Master's degrees in Computer Science at TU Kaiserslautern (now RPTU). My research primarily focuses on Human Activity Recognition (HAR) using wearable and inertial sensors, aiming for sustainable context-aware systems that are both data- and resource-efficient.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My work centers on self-supervised learning to enable data-efficient representation learning, particularly in scenarios with limited annotated data. By integrating plausibility and domain knowledge such as, physics-informed models into the learning process. Recent work has demonstrated that it is possible to build robust feature extraction methods that improve the reliability and generalization of HAR system.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond core research, my interests include combining data-driven knowledge with physics-based rules or human-like reasoning via LLM queries to enhance AI capabilities in compact, efficient forms. The broader impact of AI in healthcare, wellness, and assistive technologies also motivates my work.
+
+

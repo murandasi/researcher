@@ -1,0 +1,12 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Ice Cube (simple cube with lines) -->
+  <rect x="48" y="48" width="160" height="160" fill="#5CC8FF" stroke="#2B90FF" stroke-width="8" rx="16" ry="16" opacity="0.85"></rect>
+  <line x1="48" y1="48" x2="208" y2="208" stroke="#2B90FF" stroke-width="6" opacity="0.5"></line>
+  <line x1="128" y1="48" x2="128" y2="208" stroke="#2B90FF" stroke-width="6" opacity="0.5"></line>
+  <line x1="48" y1="128" x2="208" y2="128" stroke="#2B90FF" stroke-width="6" opacity="0.5"></line>
+
+  <!-- Lightning Bolt -->
+  <path d="M140 40 L100 140 H160 L120 220 L180 120 H120 Z" fill="#FFD700" stroke="#FFA500" stroke-width="4"></path>
+  
+</svg>
