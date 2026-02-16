@@ -26,19 +26,21 @@ cv:
         area: "Computer Science"
         studyType: "Research Assistant / PhD Candidate"
         start_date: 2023
-        end_date: "ongoing"
+        # end_date: "ongoing"
       
       - institution: "University of Kaiserslautern (TU Kaiserslautern)"
         location: "Kaiserslautern, Germany"
         area: "Computer Science"
         studyType: "Bachelor's Degree and Master's Degree"
+        # start_date: 2023
+        # end_date: "ongoing"
 
     Experience:
       - company: "University of Kaiserslautern-Landau (RPTU)"
         position: "Research Assistant"
         location: "Kaiserslautern, Germany"
         start_date: 2023
-        end_date: "ongoing"
+        # end_date: "ongoing"
         summary: "Working on HAR using wearable sensors with a focus on self-supervised learning and feature extraction."
 
     Publications:
