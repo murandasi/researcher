@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-18'
+  last_updated: '2026-02-20'
 papers:
   WQT1MfIAAAAJ:2ywjKiB__4kC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: 'Don''t freeze: Finetune encoders for better Self-Supervised HAR'
     year: '2023'
   WQT1MfIAAAAJ:Wq2b2clWBLsC:
-    citations: 3
+    citations: 4
     title: 'PIM: Physics-Informed Multi-task Pre-training for Improving Inertial Sensor-Based Human Activity Recognition'
     year: '2025'
   WQT1MfIAAAAJ:eAlLMO4JVmQC:
