@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-22'
 papers:
   WQT1MfIAAAAJ:2ywjKiB__4kC:
     citations: 0
     title: 'Don''t freeze: Finetune encoders for better Self-Supervised HAR'
     year: '2023'
   WQT1MfIAAAAJ:AYInfyleIOsC:
-    citations: 23
+    citations: 24
     title: Initial investigation of kolmogorov-arnold networks (kans) as feature extractors for imu based human activity recognition
     year: '2024'
   WQT1MfIAAAAJ:C33y2ycGS3YC:
