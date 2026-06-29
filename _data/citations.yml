@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-29'
 papers:
   WQT1MfIAAAAJ:2ywjKiB__4kC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Initial investigation of kolmogorov-arnold networks (kans) as feature extractors for imu based human activity recognition
     year: '2024'
   WQT1MfIAAAAJ:C33y2ycGS3YC:
-    citations: 3
+    citations: 4
     title: 'Beyond confusion: A fine-grained dialectical examination of human activity recognition benchmark datasets'
     year: '2024'
   WQT1MfIAAAAJ:RJOyoaXV5v8C:
