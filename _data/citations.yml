@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-08-03'
 papers:
   WQT1MfIAAAAJ:2ywjKiB__4kC:
-    citations: 0
+    citations: 8
     title: 'Don''t freeze: Finetune encoders for better Self-Supervised HAR'
     year: '2023'
   WQT1MfIAAAAJ:AYInfyleIOsC:
-    citations: 29
+    citations: 30
     title: Initial investigation of kolmogorov-arnold networks (kans) as feature extractors for imu based human activity recognition
     year: '2024'
   WQT1MfIAAAAJ:C33y2ycGS3YC:
@@ -14,19 +14,19 @@ papers:
     title: 'Beyond confusion: A fine-grained dialectical examination of human activity recognition benchmark datasets'
     year: '2024'
   WQT1MfIAAAAJ:RJOyoaXV5v8C:
-    citations: 8
+    citations: 0
     title: 'Don''t freeze: Finetune encoders for better Self-Supervised HAR'
     year: '2023'
   WQT1MfIAAAAJ:Wq2b2clWBLsC:
-    citations: 6
-    title: 'PIM: Physics-Informed Multi-task Pre-training for Improving Inertial Sensor-Based Human Activity Recognition'
+    citations: 7
+    title: 'Pim: Physics-informed multi-task pre-training for improving inertial sensor-based human activity recognition'
     year: '2025'
   WQT1MfIAAAAJ:eAlLMO4JVmQC:
     citations: 6
     title: Contrastive left-right wearable sensors (imus) consistency matching for har
     year: '2025'
   WQT1MfIAAAAJ:isU91gLudPYC:
-    citations: 0
+    citations: 1
     title: 'Beyond the Pocket: Preparing a Study on the Variations of Wearable Device Location'
     year: '2023'
   WQT1MfIAAAAJ:qE4H1tSSYIIC:
