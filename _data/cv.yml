@@ -1,7 +1,7 @@
 cv:
   name: Dominique Nshimyimana
   label: "PhD Candidate / Research Assistant"
-  email: "nshimyimana@example.com"
+  email: "nshimyim@rptu.de"
   location: "Kaiserslautern, Germany"
   image: "prof_pic.jpg"
   summary: "Researcher in Human Activity Recognition (HAR) using wearable and inertial sensors, focused on self-supervised learning and data-efficient models for real-world sensing systems."
@@ -10,7 +10,7 @@ cv:
     - network: "X"
       username: "@nshimyedom..."
     - network: "GitHub"
-      username: "dominique.nshimyimana..."
+      username: "dominique-nshimyimana..."
     - network: "LinkedIn"
       username: "dominique-nshimyimana..."
 
