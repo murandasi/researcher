@@ -1,18 +1,22 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-17'
 papers:
   WQT1MfIAAAAJ:2ywjKiB__4kC:
-    citations: 8
+    citations: 9
     title: 'Don''t freeze: Finetune encoders for better Self-Supervised HAR'
     year: '2023'
   WQT1MfIAAAAJ:AYInfyleIOsC:
-    citations: 30
+    citations: 32
     title: Initial investigation of kolmogorov-arnold networks (kans) as feature extractors for imu based human activity recognition
     year: '2024'
   WQT1MfIAAAAJ:C33y2ycGS3YC:
     citations: 5
     title: 'Beyond confusion: A fine-grained dialectical examination of human activity recognition benchmark datasets'
     year: '2024'
+  WQT1MfIAAAAJ:L_l9e5I586QC:
+    citations: 0
+    title: 'LITEWAY: LIghtweight HAR via Temporal Efficient highWAY'
+    year: '2026'
   WQT1MfIAAAAJ:RJOyoaXV5v8C:
     citations: 0
     title: 'Don''t freeze: Finetune encoders for better Self-Supervised HAR'
